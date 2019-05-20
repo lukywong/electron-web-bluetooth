@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+closure-library
+dist
+temp
+npm-debug.log
+*.log
+*.d
+*.db
+setting.json
+.vscode
